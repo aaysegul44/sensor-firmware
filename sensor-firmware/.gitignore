@@ -1,0 +1,6 @@
+tests/test_sensors
+*.o
+*.elf
+*.bin
+__pycache__/
+tests/__pycache__/
